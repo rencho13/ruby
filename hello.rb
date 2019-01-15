@@ -1,2 +1,3 @@
-print "hello les amis\n"
+print "hello les ami!!\n"
+print "Ca fait zizir !!"
 
